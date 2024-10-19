@@ -37,5 +37,5 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 Author
 Name: Gangaram Sumanth Reddy
-GitHub: Gangaram-Sumanth-Reddy
+GitHub: [Gangaram-Sumanth-Reddy](https://github.com/Gangaram-Sumanth-Reddy)
 Email: gsumanthreddy2004@gmail.com
